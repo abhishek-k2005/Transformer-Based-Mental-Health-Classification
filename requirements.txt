@@ -1,0 +1,10 @@
+# ── Core ML / NLP ─────────────────────────────────────────────────────────────
+torch>=2.0.0
+transformers>=4.40.0
+safetensors>=0.4.0
+
+# ── Web application ───────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Utilities (used by inference / preprocessing) ─────────────────────────────
+# (no extra packages beyond the standard library and the above)
