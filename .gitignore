@@ -1,0 +1,25 @@
+# Trained model/checkpoints
+models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+/data
